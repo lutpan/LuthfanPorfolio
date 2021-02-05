@@ -9,6 +9,5 @@ Set the class and the Segment and Class label of each customer and grouping into
 So this is the sample of dataset that i use in this project.
 ![](https://github.com/lutpan/My-Portfolio/blob/main/Img/df_sample.png) 
 
-Result as Bar Chart is below
+Result as Bar Chart is below.
 ![](https://github.com/lutpan/My-Portfolio/blob/main/Img/Bar%20Chart%20per%20Segment%20UK.png)
-
