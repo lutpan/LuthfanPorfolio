@@ -7,10 +7,8 @@ In this project i try to solve unsupervised machine learning problem on  dataset
 Set the class and the segment label of each customer and grouping into several segments which aims to how the company will treat customers in the future.
 ### Highlights
 So this is the sample of dataset that i use in this project.
-
 ![](https://github.com/lutpan/Customer-Segmentation/blob/main/image/df_sample.png) 
 
-Bar Chart Result : 
-
+Result as Bar Chart is below
 ![](https://github.com/lutpan/Customer-Segmentation/blob/main/image/Bar%20Chart%20per%20Segment%20UK.png)
 
