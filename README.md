@@ -1,5 +1,3 @@
-# My Portfolio
-
 ## [Project 1 : Customer Segmentation](https://github.com/lutpan/Customer-Segmentation)
 
 In this project i try to solve unsupervised machine learning problem on  dataset where the company is UK-based and registered non-store online retail. The most customer of this company are wholesalers. The original data set came from UCI Machine Learning Repository http://archive.ics.uci.edu/ml/datasets/online+retail and there is also available on kaggle https://www.kaggle.com/carrie1/ecommerce-data.
