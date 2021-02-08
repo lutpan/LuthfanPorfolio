@@ -7,8 +7,8 @@ Set the class and the Segment and Class label of each customer and grouping into
 ### Highlights
 So this is the sample of dataset that i use in this project.
 
-![](main/df_sample.png) 
+![](/Img/df_sample.png) 
 
 Result as Bar Chart is below.
 
-![](main/Bar%20Chart%20per%20Segment%20UK.png)
+![](/Img/Bar%20Chart%20per%20Segment%20UK.png)
