@@ -11,4 +11,4 @@ So this is the sample of dataset that i use in this project.
 
 Result as Bar Chart is below.
 
-![](/Img/Bar%20Chart%20per%20Segment%20UK.png)
+![](/Img/Bar_Chart_per_Segment_UK.png)
